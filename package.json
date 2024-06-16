@@ -1,0 +1,27 @@
+{
+  "name": "weather-journal-app",
+  "version": "1.0.0",
+  "description": "Weather Journal App",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  },
+  "scripts": {
+    "test": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thathien/Weather-Journal-App.git"
+  },
+  "keywords": [
+    "Weather"
+  ],
+  "author": "HienTT24",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thathien/Weather-Journal-App/issues"
+  },
+  "homepage": "https://github.com/Thathien/Weather-Journal-App#readme"
+}

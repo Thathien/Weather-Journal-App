@@ -1,0 +1,45 @@
+body {
+    background: #fffff8;
+}
+.app_container {
+    margin: 0 auto;
+    padding: 1em 1em;
+}
+.app_header {
+    text-align: center;
+    font-size: 18px;
+}
+
+.app_body {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:center;
+}
+
+button.invalid {
+    cursor: not-allowed;
+}
+.app_body_input_ouput {
+    width: 450px;
+}
+
+
+.form_input_text .form_ttl {
+    font-size: 18px;
+    font-weight: bold;
+    margin: 0 auto;
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+
+#generate {
+    float: right;
+}
+
+.app_body_input_ouput .form_ttl {
+    font-size: 18px;
+    font-weight: bold;
+    margin: 0 auto;
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
